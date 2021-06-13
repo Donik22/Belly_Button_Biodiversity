@@ -1,5 +1,5 @@
 # Belly_Button_Chart 
-https://donik22.github.io/Belly_Button_Chart/
+https://donik22.github.io/Belly_Button_Biodiversity/
 
 ![img](https://github.com/Donik22/Belly_Button_Chart/blob/main/images/03-Blog-Bacteria-L.jpg)
 
